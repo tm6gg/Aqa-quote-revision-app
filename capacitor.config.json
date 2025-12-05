@@ -1,0 +1,7 @@
+{
+  "appId": "com.example.aqarevision",
+  "appName": "AQA Revision App",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
+
